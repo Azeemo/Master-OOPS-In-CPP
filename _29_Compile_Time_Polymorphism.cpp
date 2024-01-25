@@ -1,6 +1,14 @@
-Compile-time polymorphism, also known as static polymorphism or method overloading,
-occurs when multiple methods in a class have the same name but different parameters 
-(either different types or a different number of parameters). 
+//Compile-time polymorphism, also known as static polymorphism
+// this type of polymorphism is achieved by
+// -> FUNCTION OVERLOADING
+//-> OPERATOR OVERLOADING
+
+// OPERATOR OVERLOADING -> DISCUSSED BEFORE
+
+// FUNCTION OVERLOADING
+
+//occurs when multiple methods in a class have the same name but different parameters 
+//(either different types or a different number of parameters). 
   The decision about which method to call is made by the compiler at compile time.
 
 public class MathOperations {
